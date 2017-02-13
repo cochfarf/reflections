@@ -1,0 +1,24 @@
+using command line allows for finding differences quicker.
+the intructions do not include how to find the instructor notes
+this is a PITA
+
+Installing and using software - ATOM for test editor and GIT bash for command line
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+con: can lose something if you don't commit and something happens - power loss, pulled away and turn off computer etc.
+Pro: only commit when you feel it is appropriate, no extra versions
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+file storing apps are concerned with individual documents and not interconnected files in general. code control apps deal with more interconnected files
+
+How can you use the commands git log and git diff to view the history of files?
+git log shows all of the commits including comments
+git diff can compare a specific version to another version of those files
+
+How might using version control make you more confident to make changes that could break something?
+you can always checkout the version prior to the error and use that version, or at least find the error to fix it if the error wasn't in the last version prior and there were additional changes later
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Well, I haven't set up my workspace how I want it, the files provided completely messed up some of the configurations I preferred and now I have no idea how to bring them back
